@@ -1,29 +1,27 @@
-# vue-crash-2024
+Vue Jobs Platform
+A modern job listing platform built with Vue.js and Tailwind CSS.
+You can add, edit, and delete job postings easily. The app also uses toast notifications to provide instant feedback to users.
 
-This template should help get you started developing with Vue 3 in Vite.
+Features
+📝 Add new jobs
 
-## Recommended IDE Setup
+✏️ Edit existing jobs
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+❌ Delete jobs
 
-## Customize configuration
+🔔 Toast notifications for success/error
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+🎨 Clean, responsive UI using Tailwind CSS
 
-## Project Setup
+⚡ Built with Vite for super fast performance
 
-```sh
-npm install
-```
+Tech Stack
+Vue.js 3
 
-### Compile and Hot-Reload for Development
+Tailwind CSS
 
-```sh
-npm run dev
-```
+Vite
 
-### Compile and Minify for Production
+Vue Router
 
-```sh
-npm run build
-```
+Vue Toastification
