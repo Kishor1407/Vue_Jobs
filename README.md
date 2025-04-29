@@ -4,24 +4,15 @@ You can add, edit, and delete job postings easily. The app also uses toast notif
 
 Features
 📝 Add new jobs
-
 ✏️ Edit existing jobs
-
 ❌ Delete jobs
-
 🔔 Toast notifications for success/error
-
 🎨 Clean, responsive UI using Tailwind CSS
-
 ⚡ Built with Vite for super fast performance
 
-Tech Stack
-Vue.js 3
-
-Tailwind CSS
-
-Vite
-
-Vue Router
-
-Vue Toastification
+Tech Stack Used
+-Vue.js 3
+-Tailwind CSS
+-Vite
+-Vue Router
+-Vue Toastification
