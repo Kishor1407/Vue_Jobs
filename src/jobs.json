@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "767f",
+      "title": "SDE1",
+      "type": "Part-Time",
+      "location": "Bangalore, Karnataka",
+      "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+        "contactEmail": "kishorhegge1419@gmail.com",
+        "contactPhone": "08696763118"
+      }
+    },
+    {
+      "id": "b4dd",
+      "title": "PM2",
+      "type": "Full-Time",
+      "location": "Bangalore, Karnataka",
+      "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+        "contactEmail": "kishorhegge1419@gmail.com",
+        "contactPhone": "8696763118"
+      }
+    },
+    {
+      "id": "868c",
+      "title": "Kishor Kumar Hegge",
+      "type": "Full-Time",
+      "location": "Bangalore, Karnataka, IND",
+      "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+        "contactEmail": "kishorhegge1419@gmail.com",
+        "contactPhone": "08696763118"
+      }
+    },
+    {
+      "id": "8c73",
+      "title": "Junior Developer",
+      "type": "Full-Time",
+      "location": "Bangalore, Karnataka, IND",
+      "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.Investigates problem areas. Follows the software development lifecycle. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Prepares and installs solutions by determining and designing system specifications, standards, and programming.",
+        "contactEmail": "kishorhegge1419@gmail.com",
+        "contactPhone": "08696763118"
+      }
+    },
+    {
+      "id": "2da9",
+      "title": "Senior Vue Product Manager",
+      "type": "Full-Time",
+      "location": "Bangalore, Karnataka",
+      "description": "Senior Vue Product ManagerSenior Vue Product ManagerSenior Vue Product ManagerSenior Vue Product Manager",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "Senior Vue Product ManagerSenior Vue Product ManagerSenior Vue Product ManagerSenior Vue Product Manager",
+        "contactEmail": "kishorhegge1419@gmail.com",
+        "contactPhone": "08696763118"
+      }
+    }
+  ]
+}
